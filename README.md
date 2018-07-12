@@ -1,2 +1,4 @@
 # data-visualization
-1. life chart from LinkedIn
+
+## TODO
+* 1. life chart from LinkedIn
